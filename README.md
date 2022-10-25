@@ -1,4 +1,5 @@
 # 🎈01-my-app
+
 # Tips
 ```
 * Para instalar ionic
@@ -15,14 +16,16 @@
 (http://localhost:8200/)
 
 ```
-### Tech
+### Installation/Descargables
 
-Dillinger uses a number of open source projects to work properly:
 
-* [AngularJS] 
-* [node.js] 
-* [ionic]
+* [Node.js](https://nodejs.org/es/) 
+* [Mongo Compass](https://www.mongodb.com/try/download/compass)
+* [Android studio](https://developer.android.com/studio/?gclid=Cj0KCQjwhb36BRCfARIsAKcXh6GRXJN_hJrabNpOE94384hWx1uh4qPgqVQBiZJMkDEcNUgTQf3UwZoaAr-ZEALw_wcB&gclsrc=aw.ds)
+* [AngularCLI](https://angular.io/cli)
+* [ionicframework](https://ionicframework.com/)
 
-**Free Software, Hell Yeah!**
+
+**Free Software, Hell Yeah!🤘**
 
 
