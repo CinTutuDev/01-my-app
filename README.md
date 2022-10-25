@@ -24,7 +24,7 @@
 * [Android studio](https://developer.android.com/studio/?gclid=Cj0KCQjwhb36BRCfARIsAKcXh6GRXJN_hJrabNpOE94384hWx1uh4qPgqVQBiZJMkDEcNUgTQf3UwZoaAr-ZEALw_wcB&gclsrc=aw.ds)
 * [AngularCLI](https://angular.io/cli)
 * [ionicframework](https://ionicframework.com/)
-* [CodigoFuente FernandoH](https://github.com/Klerith/ionic-primera-app)
+* [CodigoFuente FernandoH](https://github.com/Klerith/ionic-primera-app)...(al instalarlo hacer un --> npm install)
 
 
 **Free Software, Hell Yeah!🤘**
