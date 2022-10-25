@@ -26,6 +26,7 @@ const routes: Routes = [
       }
     ]
   },
+  /* aqui redirecciona si quitamos en el nav tabs/tab1 nos redirecciona a la pg */
   {
     path: '',
     redirectTo: '/tabs/tab1',
