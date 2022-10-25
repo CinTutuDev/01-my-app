@@ -1,4 +1,4 @@
-# 01-my-app
+# 🎈01-my-app
 # Tips
 ```
 * Para instalar ionic
