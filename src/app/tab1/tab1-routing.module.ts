@@ -8,7 +8,7 @@ const routes: Routes = [
     component: Tab1Page,
   }
 ];
-
+//BORRAME
 @NgModule({
   imports: [RouterModule.forChild(routes)],
   exports: [RouterModule]
